@@ -2,3 +2,5 @@ Utils/__pycache__/*
 *.pickle
 DataPaper/activity_rr.csv
 DataPaper/df_rr_2_activity.csv
+Datapaper/group1.csv
+DataPaper/group2.csv
